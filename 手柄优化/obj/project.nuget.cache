@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTH5eZefgC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MniShark\\Downloads\\手柄\\MyControllerMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MniShark\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.4.0\\pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

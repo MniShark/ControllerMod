@@ -1,0 +1,8 @@
+C:\Users\MniShark\Downloads\手柄\obj\Release\net6.0\MyControllerMod.csproj.AssemblyReference.cache
+C:\Users\MniShark\Downloads\手柄\obj\Release\net6.0\MyControllerMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MniShark\Downloads\手柄\obj\Release\net6.0\MyControllerMod.AssemblyInfoInputs.cache
+C:\Users\MniShark\Downloads\手柄\obj\Release\net6.0\MyControllerMod.AssemblyInfo.cs
+C:\Users\MniShark\Downloads\手柄\obj\Release\net6.0\MyControllerMod.csproj.CoreCompileInputs.cache
+C:\Users\MniShark\Downloads\手柄\bin\Release\net6.0\手柄优化.deps.json
+C:\Users\MniShark\Downloads\手柄\bin\Release\net6.0\手柄优化.dll
+C:\Users\MniShark\Downloads\手柄\obj\Release\net6.0\手柄优化.dll

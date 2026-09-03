@@ -1,0 +1,9 @@
+{
+  "Name": "手柄优化",
+  "Author": "MniShark",
+  "Version": "1.0.0",
+  "Description": "移除并重新绑定指定的手柄按键。",
+  "UniqueID": "MniShark.MyControllerMod",
+  "EntryDll": "手柄优化.dll",
+  "MinimumApiVersion": "4.0.0"
+}
